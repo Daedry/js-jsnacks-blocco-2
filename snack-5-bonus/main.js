@@ -17,7 +17,7 @@ while (i < stones.length){
     
     i++
 }
-
+console.log(stones)
 console.log(numbers)
 
 
